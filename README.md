@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gontran Dumont</h1>
 <h3 align="center">A passionate frontend developper from France</h3>
 
-- 🌱 I’m currently learning **Bulma**
+- 🌱 I’m currently learning **Bulma, Buefy**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DumontGontran](https://github.com/DumontGontran)
 
-- 💬 Ask me about **html, sass, css, js**
-
-- 📫 How to reach me **dumont.gontran@orange.fr**
+- 💬 Ask me about **HTML, SASS, CSS, JS**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/gontran-dumont/](https://www.linkedin.com/in/gontran-dumont/)
 
