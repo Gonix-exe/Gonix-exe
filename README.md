@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gontran Dumont</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<h3 align="center">A passionate frontend developper from France</h3>
 
-- 🔭 I’m currently working on [Mariage-Aude-Tristan](https://github.com/DumontGontran/Mariage-Aude-Tristan)
-
-- 🌱 I’m currently learning **VueX, VueJS 3**
+- 🌱 I’m currently learning **Bulma**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DumontGontran](https://github.com/DumontGontran)
 
-- 💬 Ask me about **vue, sass, css**
+- 💬 Ask me about **html, sass, css, js**
 
 - 📫 How to reach me **dumont.gontran@orange.fr**
 
