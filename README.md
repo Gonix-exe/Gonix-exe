@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gontran Dumont</h1>
 <h3 align="center">A passionate web developper from France</h3>
 
-- 🌱 I’m currently working on **Javascript Vanilla(ES6)**
+- 🌱 I’m currently working on my **Wordpress** Portfolio
 
 - 👨‍💻 All of my projects are available at [https://github.com/DumontGontran](https://github.com/DumontGontran)
 
