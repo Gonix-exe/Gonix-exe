@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gontran Dumont</h1>
 <h3 align="center">A passionate web developper from France</h3>
 
-- 🌱 I’m currently working on my **Wordpress** Portfolio
+- 🌱 I’m currently Learning **ReactJS 18**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DumontGontran](https://github.com/DumontGontran)
+- 👨‍💻 All of my projects are available on my **Wordpress Portfolio** [https://server-gontran-dumont.fr/](https://server-gontran-dumont.fr/)
 
-- 💬 Ask me about **HTML, SASS, CSS, JS**
+- 💬 Ask me about **HTML, SASS, CSS, JS, VueJS 3**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/gontran-dumont/](https://www.linkedin.com/in/gontran-dumont/)
 
