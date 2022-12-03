@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gontran Dumont</h1>
 <h3 align="center">A passionate web developper from France</h3>
 
-- 🌱 I’m currently Learning **ReactJS 18** [https://github.com/DumontGontran/Cocktail/](Cocktail Project)
+- 🌱 I’m currently Learning **ReactJS 18** [https://github.com/DumontGontran/Cocktail](https://github.com/DumontGontran/Cocktail)
 
 - 👨‍💻 All of my projects are available on my **Wordpress Portfolio** [https://server-gontran-dumont.fr/](https://server-gontran-dumont.fr/)
 
