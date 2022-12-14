@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently Learning **ReactJS 18** [https://github.com/DumontGontran/Cocktail](https://github.com/DumontGontran/Cocktail)
 
-- 👨‍💻 All of my projects are available on my **Wordpress Portfolio** [https://server-gontran-dumont.fr/](https://server-gontran-dumont.fr/)
+- 👨‍💻 All of my projects are available in details on my **Wordpress Portfolio** [https://server-gontran-dumont.fr/](https://server-gontran-dumont.fr/)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/gontran-dumont/](https://www.linkedin.com/in/gontran-dumont/)
 
