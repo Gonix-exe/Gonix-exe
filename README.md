@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available on my **Wordpress Portfolio** [https://server-gontran-dumont.fr/](https://server-gontran-dumont.fr/)
 
-- 💬 Ask me about **HTML, SASS, CSS, JS, VueJS 3**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/gontran-dumont/](https://www.linkedin.com/in/gontran-dumont/)
 
 <h3 align="left">Connect with me:</h3>
