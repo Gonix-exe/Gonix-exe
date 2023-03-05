@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gontran Dumont</h1>
 <h3 align="center">A passionate web developper from France</h3>
 
-- 🌱 I’m currently working on **(React + Redux) in Typescript + Tailwind** [https://github.com/DumontGontran/fizzbuzz](https://github.com/DumontGontran/fizzbuzz)
+- 🌱 I’m currently working on **(React + Redux) in Typescript + Tailwind** [https://github.com/DumontGontran/todolist](https://github.com/DumontGontran/todolist)
 
 - 👨‍💻 All of my projects are available in details on my **Wordpress Portfolio** [https://server-gontran-dumont.fr/](https://server-gontran-dumont.fr/)
 
