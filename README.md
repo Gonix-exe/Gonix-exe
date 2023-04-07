@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gontran Dumont</h1>
 <h3 align="center">A passionate web developper from France</h3>
 
-- 🌱 My last project was **a new version of my Portfolio** with **(React + Redux) in Typescript**
+- 🌱 I'm currently learning **JAVA** !
 
 - 👨‍💻 All of my projects are available in details on my **React Portfolio** [https://server-gontran-dumont.fr/](https://server-gontran-dumont.fr/)
 
