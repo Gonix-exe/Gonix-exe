@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gontran Dumont</h1>
 <h3 align="center">A passionate web developper from France</h3>
 
-- 🌱 I'm currently open to work on **[(https://www.malt.fr/profile/gontrandumont)](https://www.malt.fr/profile/gontrandumont)** !
+- 🌱 I'm currently open to work on **[https://www.malt.fr/profile/gontrandumont](https://www.malt.fr/profile/gontrandumont)** !
 
 - 👨‍💻 All of my projects are available in details on my **Portfolio** [https://server-gontran-dumont.fr/](https://server-gontran-dumont.fr/)
 
