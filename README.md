@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gontran DUMONT</h1>
-<h2 align="center">A passionate Fullstack Developper from France</h2>
+<h1 align="center">Hi 👋, I'm Gonix_exe</h1>
+<h2 align="center">A passionate Web Developer from France</h2>
 
 <h3>MY TECHNICAL STACK</h3>
 <h4 align="left">Frontend:</h4>
