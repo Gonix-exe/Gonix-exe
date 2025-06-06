@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gonix_exe</h1>
-<h2 align="center">A passionate Web Developer from France</h2>
+<h2 align="center">A passionate Web Developer | Youtuber from France</h2>
 
 <h3>MY TECHNICAL STACK</h3>
 <h4 align="left">Frontend:</h4>
